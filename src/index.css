@@ -17,12 +17,12 @@ body {
 main {
   border-radius: 10px;
   box-shadow: 10px 10px;
+  border: 2px solid black;
   position: relative;
   background: white;
-
   width: 340px;
   margin: 200 auto;
-  padding: 20px;
+  padding: 25px;
   overflow: auto;
   justify-content: center;
 }
