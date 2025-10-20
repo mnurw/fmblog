@@ -1,0 +1,121 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+* {
+  font-family: Figtree;
+}
+
+body {
+  background-color: #f4d04e;
+}
+
+main {
+  border-radius: 10px;
+  box-shadow: 10px 10px;
+  position: relative;
+  background: white;
+
+  width: 340px;
+  margin: 200 auto;
+  padding: 20px;
+  overflow: auto;
+  justify-content: center;
+}
+
+.illustration {
+  height: 200px;
+  width: 336px;
+  border-radius: 10px;
+  margin: auto;
+  display: block;
+}
+
+.content {
+  background: white;
+  justify-content: center;
+  padding: 20px 0px 5px 0px;
+  margin: 0;
+}
+
+.box-learning {
+  background: #f4d04e;
+  width: 82px;
+  height: 29px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  font-family: Figtree;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.published {
+  background: white;
+  font-family: Figtree;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px 0px 10px 0px;
+}
+
+.title {
+  background: white;
+  font-family: Figtree;
+  font-weight: 800;
+  font-size: 24px;
+  padding: 10px 0px 10px 0px;
+}
+
+.title-click:hover {
+  background: white;
+  color: f4d04e;
+  font-family: Figtree;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.description {
+  background: white;
+  font-family: Figtree;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 10px 0px 10px 0px;
+  line-height: 25px;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+}
+
+.creator {
+  display: flex;
+  align-items: center;
+}
+
+.creator-name {
+  font-family: Figtree;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 20px 0px 20px 10px;
+}
+
+.header {
+  font-family: Figtree;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.description {
+  font-family: Figtree;
+  font-weight: 400;
+  font-size: 15px;
+  color: #68778d;
+}
